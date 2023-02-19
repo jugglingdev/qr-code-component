@@ -30,20 +30,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- HTML5
+- CSS
 
 ### What I learned
 
-Use 
+This was my very first coding project built from scratch without the aid of a tutorial (hurray!).
+
+
 
 ### Continued development
 
@@ -56,9 +50,13 @@ Use
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- GitHub - [@jugglingdev](https://github.com/jugglingdev)
+
+- freeCodeCamp - [@jugglingdev](https://www.freecodecamp.org/jugglingdev)
+
+- Frontend Mentor - [@jugglingdev](https://www.frontendmentor.io/profile/jugglingdev)
+
+- LinkedIn - [Kayla Paden](https://www.linkedin.com/in/kayla-marie-paden)
 
 ## Acknowledgments
 

@@ -10,24 +10,37 @@ body {
 
 .card {
     margin: 0 auto;
+    margin-top: 20px;
     width: 300px;
     background-color: hsl(0, 0%, 100%);
-    border-radius: 1em;
-    box-shadow: 20px;       /* Help! */
+    border-radius: 1.2em;
 }
 
 .qr-code img {
-    margin: 0 auto;
-    width: 280px;
+    margin: 16px;
+    width: 268px;
     
-    border-radius: 0.5em;
+    border-radius: 0.7em;
+}
+
+h1 {
+    font-family: "Outfit", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.3em;
+    text-align: center;
+    margin: 0 auto;
+    padding: 6px 28px 8px 28px;
 }
 
 p {
+    font-family: "Outfit", sans-serif;
+    font-weight: 400;
     font-size: 15px;
+    color:hsl(220, 15%, 55%);
     text-align: center;
     margin: 0 auto;
-    padding: 5px 20px;
+    padding: 8px 28px 36px 28px;
 }
 
 .attribution p {
@@ -35,6 +48,20 @@ p {
     text-align: center; 
 }
 
-.attribution a {
-    color: hsl(228, 45%, 44%); 
+.attribution a:link {
+    color:hsl(228, 45%, 44%);
+    text-decoration: none;
+}
+
+.attribution a:visited {
+    color: hsl(300, 37%, 57%);
+}
+
+.attribution a:hover {
+    color: hsl(228, 35%, 55%);
+    text-decoration: underline;
+}
+
+.attribution a:active {
+    color: hsl(330, 100%, 71%);
 }
