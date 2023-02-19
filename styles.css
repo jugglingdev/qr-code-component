@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%)
+}
+
+.card {
+    margin: 0 auto;
+    width: 300px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 1em;
+    box-shadow: 20px;       /* Help! */
+}
+
+.qr-code img {
+    margin: 0 auto;
+    width: 280px;
+    
+    border-radius: 0.5em;
+}
+
+p {
+    font-size: 15px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 5px 20px;
+}
+
+.attribution p {
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%); 
+}
