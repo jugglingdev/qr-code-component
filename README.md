@@ -38,9 +38,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 This was my very first coding project built from scratch without the aid of a tutorial (hurray!).
 
-After reviewing the style guide and design images, I first coded the HTML and then the CSS.  I followed the practice of styling for mobile first and then desktop.
+After reviewing the style guide and design images, I first coded the HTML and then the CSS.  Had this project called for responsive design, I would have followed the best practice of styling for mobile first and then desktop.
 
-Due to the simplicity of the design, I chose to not use Flexbox and instead mapped out a simple box model.
+Due to the simplicity of the design, I chose to not use Flexbox and instead mapped out a simple box model.  I also changed the `img` display to `block` instead of the default `inline` to make centering easier.
 
 The style guide called for the `Outfit` font family from [Google Fonts](https://fonts.google.com/specimen/Outfit).  This was fairly easy to set up since it is externally hosted.  It was also rewarding to see the font change!
 
@@ -50,13 +50,17 @@ My favorite part of this exercise was working with link pseudo-classes.  I had f
 
 Outside of what was given in the style guide, I did my best to match the margin, padding, and line-height of the design images.
 
+Overall, it was a good first challenge with [Frontend Mentor](https://www.frontendmentor.io/home).  Nice and simple, but definitely a great first step to get me thinking from scratch.
+
 ### Continued development
 
 I did not use Flexbox or advanced positioning for this project, so that is something I would like to practice in a future project to hone in on my HTML and CSS skills.
 
+This project did not call for responsive design either, which is something else I would like to practice more in the future.  For instance, I would like to work with a project that utilizes `@media` queries for mobile, tablet, and desktop layouts.
+
 ### Useful resources
 
-- [Interneting Is Hard:  Link Psuedo-Classes](https://www.internetingishard.com/html-and-css/css-selectors/#pseudo-classes-for-links) - A favorite tutorial for CSS selectors including link pseudo-classes.
+- [Interneting Is Hard: Link Psuedo-Classes](https://www.internetingishard.com/html-and-css/css-selectors/#pseudo-classes-for-links) - A favorite tutorial for CSS selectors including link pseudo-classes.
 
 ## Author
 
