@@ -48,25 +48,31 @@ p {
     padding: 8px 28px 36px 28px;
 }
 
-.attribution p {
-    font-size: 11px; 
-    text-align: center; 
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
-.attribution a:link {
+footer p {
+    font-size: 11px; 
+    text-align: center;
+}
+
+footer a:link {
     color:hsl(228, 45%, 44%);
     text-decoration: none;
 }
 
-.attribution a:visited {
+footer a:visited {
     color: hsl(300, 37%, 57%);
 }
 
-.attribution a:hover {
+footer a:hover {
     color: hsl(228, 35%, 55%);
     text-decoration: underline;
 }
 
-.attribution a:active {
+footer a:active {
     color: hsl(330, 100%, 71%);
 }

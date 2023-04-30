@@ -4,16 +4,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Frontend Mentor - QR Code Component solution](#frontend-mentor---qr-code-component-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -64,13 +66,7 @@ This project did not call for responsive design either, which is something else 
 
 ## Author
 
-- GitHub - [@jugglingdev](https://github.com/jugglingdev)
-
-- freeCodeCamp - [@jugglingdev](https://www.freecodecamp.org/jugglingdev)
-
-- Frontend Mentor - [@jugglingdev](https://www.frontendmentor.io/profile/jugglingdev)
-
-- LinkedIn - [Kayla Paden](https://www.linkedin.com/in/kayla-marie-paden)
+- Kayla Paden - Find me at [GitHub](https://github.com/jugglingdev), [freeCodeCamp](https://www.freecodecamp.org/jugglingdev), [Frontend Mentor](https://www.frontendmentor.io/profile/jugglingdev), [LinkedIn](https://www.linkedin.com/in/kayla-marie-paden)
 
 ## Acknowledgments
 
